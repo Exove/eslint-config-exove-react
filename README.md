@@ -2,7 +2,7 @@
 
 React and JSX specific linter rules.
 
-This package is intended to be used with [`eslint-config-exove-nodejs`](https://github.com/Exove/eslint-config-exove-react) which contains generic JavaScript linter rules.
+This package is intended to be used with [`eslint-config-exove-nodejs`](https://github.com/Exove/eslint-config-exove-nodejs) which contains generic JavaScript linter rules.
 
 ## Installation
 
