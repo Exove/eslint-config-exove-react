@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-exove-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Exove ESLint React configuration",
   "main": "index.js",
   "author": {
