@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-exove-react",
+  "version": "0.0.1",
+  "description": "Exove ESLint React configuration",
+  "main": "index.js",
+  "author": {
+    "name": "Eetu Latja",
+    "email": "<eetu@exove.fi>"
+  },
+  "license": "ISC"
+}
